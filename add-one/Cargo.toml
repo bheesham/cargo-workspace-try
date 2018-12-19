@@ -2,5 +2,6 @@
 name = "add-one"
 version = "0.1.0"
 authors = ["Bheesham Persaud <me@bheesham.com>"]
+edition = "2018"
 
 [dependencies]
